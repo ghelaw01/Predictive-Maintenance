@@ -1,4 +1,9 @@
-# Machine-Failure-Prediction
+# Predictive Maintenance — Machine Failure Prediction with R, XGBoost & Docker
+
+> **Author:** [Zemen Matebe Ghelaw](https://github.com/ghelaw01) — Data Scientist & AI/ML Specialist
+> **Repository:** [`ghelaw01/Predictive-Maintenance`](https://github.com/ghelaw01/Predictive-Maintenance)
+
+Predictive maintenance pipeline using sensor data, XGBoost classification, Plumber API, and Docker for deployment.
 
 Predictive Maintenance - End-to-End Machine Learning Pipeline (R)
   Project Overview
@@ -41,3 +46,7 @@ Source: NASA CMAPSS Dataset
 
 
 
+
+---
+
+<sub><b>Author:</b> Zemen Matebe Ghelaw (also: Zemen Ghelaw, Zemen M. Ghelaw) — Data Scientist & AI/ML Specialist based in Washington, D.C. · <a href="https://github.com/ghelaw01">github.com/ghelaw01</a><br><b>Keywords:</b> predictive maintenance · machine failure prediction · R · XGBoost · Docker · Plumber · Zemen Matebe Ghelaw</sub>
